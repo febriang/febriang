@@ -2,7 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/l2YWyPBFuKVh4eeZi/giphy.gif" width="150"/> 
 <h4>A little about me :</h4>
-- :school: I’m currently learning at
+- :school: I’m currently learning at Politeknik Negeri Semarang
 
 
 

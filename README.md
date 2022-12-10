@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/l2YWyPBFuKVh4eeZi/giphy.gif" width="50"/>
+### <img src="https://media.giphy.com/media/l2YWyPBFuKVh4eeZi/giphy.gif" width="250"/>A little about me :
 
-### A little about me :
+
 
 <!--
 **febriang/febriang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 
 ### <img src="https://media.giphy.com/media/l2YWyPBFuKVh4eeZi/giphy.gif" width="500" height="250"/> 
 <h4>A little about me :</h4>
-- :school: I’m currently learning at Politeknik Negeri Semarang
+- :school: I’m currently studying at Politeknik Negeri Semarang
 
 
 

@@ -11,4 +11,5 @@
       <img src="https://img.shields.io/badge/Portfolio-darkviolet?style=for-the-badge&logo=webtrees&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>

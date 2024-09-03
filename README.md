@@ -7,7 +7,7 @@
     <a href="https://github.com/febriang">
       <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
     </a>
-    <a href="https://febriang.netlify.app/">
+    <a href="https://febriang.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-darkviolet?style=for-the-badge&logo=webtrees&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
